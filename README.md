@@ -41,6 +41,18 @@ Custom MDX adds analytical features that are not directly stored in the warehous
 
 ## Dashboard evidence
 
+### Regional performance dashboard
+
+![Regional performance dashboard with map, yearly sales trends, territory ranking, and order totals](docs/screenshots/regional-performance-dashboard.png)
+
+### Product profitability dashboard
+
+![Product profitability dashboard with category, subcategory, product, sales, cost, and profit analysis](docs/screenshots/product-profitability-dashboard.png)
+
+### Customer segmentation dashboard
+
+![Customer segmentation dashboard with age bands, marital status, gender performance, and high-value customers](docs/screenshots/customer-segmentation-dashboard.png)
+
 ### Regional performance
 
 ![Regional sales map](docs/screenshots/regional-sales-map.png)
