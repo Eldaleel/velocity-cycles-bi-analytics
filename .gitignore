@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+*.dwproj.user
+*.bak
+*.abf
+*.asdatabase
+*.user
+Thumbs.db
+Desktop.ini
